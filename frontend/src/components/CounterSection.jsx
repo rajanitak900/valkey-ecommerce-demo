@@ -8,7 +8,7 @@ const CounterSection = () => {
           <div className='col-xxl-11'>
             <div className='bg-neutral-600 rounded-16 px-xxl-5 px-xl-4'>
               <div className='row gy-lg-0 gy-4 line-wrapper'>
-                <div className='col-lg-3 col-sm-6 col-xs-6'>
+                <div className='col-lg-3 col-sm-6 col-6'>
                   <div className='counter-item text-center py-100 px-8'>
                     <h3 className='text-main-600 counter mb-8 fw-semibold'>
                       185+
@@ -18,7 +18,7 @@ const CounterSection = () => {
                     </p>
                   </div>
                 </div>
-                <div className='col-lg-3 col-sm-6 col-xs-6'>
+                <div className='col-lg-3 col-sm-6 col-6'>
                   <div className='counter-item text-center py-100 px-8'>
                     <h3 className='text-main-600 counter mb-8 fw-semibold'>
                       152K
@@ -28,7 +28,7 @@ const CounterSection = () => {
                     </p>
                   </div>
                 </div>
-                <div className='col-lg-3 col-sm-6 col-xs-6'>
+                <div className='col-lg-3 col-sm-6 col-6'>
                   <div className='counter-item text-center py-100 px-8'>
                     <h3 className='text-main-600 counter mb-8 fw-semibold'>
                       15K+
@@ -38,7 +38,7 @@ const CounterSection = () => {
                     </p>
                   </div>
                 </div>
-                <div className='col-lg-3 col-sm-6 col-xs-6'>
+                <div className='col-lg-3 col-sm-6 col-6'>
                   <div className='counter-item text-center py-100 px-8'>
                     <h3 className='text-main-600 counter mb-8 fw-semibold'>
                       2K+

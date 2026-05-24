@@ -196,10 +196,10 @@ $font-sizes: (
 :root {    
 
   /* Font Family Variable */
-  --heading-font: "Quicksand", sans-serif ;
-  --heading-font-two: "Exo", sans-serif;
-  --heading-font-three: "Outfit", sans-serif;;
-  --heading-font-four: "Dancing Script", cursive;;
+  --heading-font: "Outfit", sans-serif;
+  --heading-font-two: "Outfit", sans-serif;
+  --heading-font-three: "Outfit", sans-serif;
+  --heading-font-four: "Outfit", sans-serif;
   --body-font: "Inter", sans-serif;
   
   /* Font Size Variable Start */  
@@ -214,42 +214,42 @@ $font-sizes: (
   --display-one: clamp(2.5rem, -0.0733rem + 6.3692vw, 7.5rem); // Min:40px - Max:120px
   /* Font Size End */
 
-  /* template main color - ValkeyBlue #6983FF */
-  --main-h: 230;
-  --main-s: 100%;
-  --main-l: 71%;
+  /* template main color - Fresh Grocery Green */
+  --main-h: 145;
+  --main-s: 63%;
+  --main-l: 42%;
   --main: var(--main-h) var(--main-s) var(--main-l);
 
-  /* template secondary color - ValkeyPurple #30176E */
-  --main-two-h: 257;
-  --main-two-s: 65%;
-  --main-two-l: 26%;
+  /* template secondary color - Deep Slate */
+  --main-two-h: 222;
+  --main-two-s: 47%;
+  --main-two-l: 11%;
   --main-two: var(--main-two-h) var(--main-two-s) var(--main-two-l);
 
    /* Valkey Brand Colors */
-  --valkey-blue: #6983FF;
-  --valkey-black: #1A2026;
-  --valkey-red: #642637;
-  --valkey-purple: #30176E;
-  --valkey-pink: #E0A2AF;
-  --valkey-lavender: #BCB5E7;
-  --valkey-white: #FFFDFA;
-  --valkey-white-2: #D3DDE7;
-  --valkey-white-3: #F7FBFE;
+  --valkey-blue: #16A34A;
+  --valkey-black: #0F172A;
+  --valkey-red: #DC2626;
+  --valkey-purple: #4F46E5;
+  --valkey-pink: #EC4899;
+  --valkey-lavender: #C7D2FE;
+  --valkey-white: #FFFFFF;
+  --valkey-white-2: #F8FAFC;
+  --valkey-white-3: #F1F5F9;
 
    /* White Color */
   --white: 0 0% 100%;
-  --black: 210 19% 13%;
-  --light: 0 0% 51%;
+  --black: 0 0% 15%;
+  --light: 0 0% 35%;
   
   --heading-color: var(--black);
   --body-color: var(--light);
   --body-bg: var(--gray);
-  --border-color: 210 29% 87%;
+  --border-color: 214 32% 91%;
 
-  --bg-color-one: #F7FBFE; 
-  --bg-color-two: #FFFDFA; 
-  --bg-color-three: #D3DDE7; 
+  --bg-color-one: #F8FAFC; 
+  --bg-color-two: #FFFFFF; 
+  --bg-color-three: #F1F5F9; 
   --neutral: #1A2026; 
 
   --translate-x-middle: translateX(-50%); 
