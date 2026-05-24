@@ -2,6 +2,7 @@ import React from "react";
 import Preloader from "../helper/Preloader";
 import HeaderTwo from "../components/HeaderTwo";
 import Breadcrumb from "../components/Breadcrumb";
+import ProductGrid from "../components/ProductGrid";
 import ShopSection from "../components/ShopSection";
 import ShippingTwo from "../components/ShippingTwo";
 import FooterTwo from "../components/FooterTwo";
@@ -26,6 +27,9 @@ const ShopPage = () => {
 
       {/* Breadcrumb */}
       <Breadcrumb title={"Shop"} />
+
+      {/* ProductGrid */}
+      <ProductGrid />
 
       {/* ShopSection */}
       <ShopSection />
