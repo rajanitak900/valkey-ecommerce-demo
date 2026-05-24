@@ -11,7 +11,7 @@ const Contact = () => {
                             <form action="#">
                                 <h6 className="mb-32">Make Custom Request</h6>
                                 <div className="row gy-4">
-                                    <div className="col-sm-6 col-xs-6">
+                                    <div className="col-12 col-sm-6">
                                         <label
                                             htmlFor="name"
                                             className="flex-align gap-4 text-sm font-heading-two text-gray-900 fw-semibold mb-4"
@@ -26,7 +26,7 @@ const Contact = () => {
                                             placeholder="Full name"
                                         />
                                     </div>
-                                    <div className="col-sm-6 col-xs-6">
+                                    <div className="col-12 col-sm-6">
                                         <label
                                             htmlFor="email"
                                             className="flex-align gap-4 text-sm font-heading-two text-gray-900 fw-semibold mb-4"
@@ -41,7 +41,7 @@ const Contact = () => {
                                             placeholder="Email address"
                                         />
                                     </div>
-                                    <div className="col-sm-6 col-xs-6">
+                                    <div className="col-12 col-sm-6">
                                         <label
                                             htmlFor="phone"
                                             className="flex-align gap-4 text-sm font-heading-two text-gray-900 fw-semibold mb-4"
@@ -56,7 +56,7 @@ const Contact = () => {
                                             placeholder="Phone Number*"
                                         />
                                     </div>
-                                    <div className="col-sm-6 col-xs-6">
+                                    <div className="col-12 col-sm-6">
                                         <label
                                             htmlFor="subject"
                                             className="flex-align gap-4 text-sm font-heading-two text-gray-900 fw-semibold mb-4"

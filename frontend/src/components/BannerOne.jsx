@@ -67,7 +67,7 @@ const BannerOne = () => {
                             <div className="banner-slider__item">
                                 <div className="banner-slider__inner flex-between position-relative">
                                     <div className="banner-item__content">
-                                        <h1 className="banner-item__title bounce">
+                                        <h1 className="banner-item__title bounce text-white">
                                             Daily Grocery Order and Get Express Delivery
                                         </h1>
                                         <Link
@@ -88,7 +88,7 @@ const BannerOne = () => {
                             <div className="banner-slider__item">
                                 <div className="banner-slider__inner flex-between position-relative">
                                     <div className="banner-item__content">
-                                        <h1 className="banner-item__title">
+                                        <h1 className="banner-item__title text-white">
                                             Daily Grocery Order and Get Express Delivery
                                         </h1>
                                         <Link
