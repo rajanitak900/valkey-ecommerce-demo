@@ -28,7 +28,7 @@ const BannerTwo = () => {
                             </button>
                             <div className="logo px-16 d-lg-none d-block">
                                 <Link to="/" className="link">
-                                    <h2 className="mb-0 text-main-600">SnapBasket</h2>
+                                    <img src="assets/images/logo/logo.png" alt="Logo" />
                                 </Link>
                             </div>
                             <ul className="responsive-dropdown__list scroll-sm p-0 py-8 overflow-y-auto ">

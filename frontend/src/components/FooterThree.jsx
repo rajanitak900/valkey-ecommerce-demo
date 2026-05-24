@@ -12,7 +12,7 @@ const FooterThree = () => {
               <div className='footer-item__logo'>
                 <Link to='/'>
                   {" "}
-                  <h2 className="mb-0 text-main-600">SnapBasket</h2>
+                  <img src='assets/images/logo/logo-two-black.png' alt='' />
                 </Link>
               </div>
               <p className='mb-24'>
